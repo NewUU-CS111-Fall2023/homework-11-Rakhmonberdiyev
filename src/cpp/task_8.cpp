@@ -20,5 +20,6 @@ int findE(int phi) {
     return e;
 }
 
+
 int findD(int e, int phi) {
     int d = 2;
